@@ -1,0 +1,26 @@
+# OpenClaw Workspace Git Ignore
+
+# Sensitive configuration files
+TOOLS.md              # Contains local environment details (SSH hosts, etc.)
+
+# Memory files - contain personal information and session logs
+MEMORY.md
+memory/               # Daily memory logs
+
+# OpenClaw internal directories
+.openclaw/            # OpenClaw internal configuration
+.clawhub/             # ClawHub cache and data
+state/                # Session state files
+
+# OS and editor files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/

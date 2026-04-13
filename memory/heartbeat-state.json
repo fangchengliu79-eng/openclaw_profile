@@ -1,0 +1,19 @@
+{
+  "lastChecks": {
+    "email": "2026-04-13T06:55:00Z",
+    "systemStatus": "2026-04-13T06:55:00Z",
+    "calendar": "2026-04-13T06:55:00Z",
+    "projectMilestones": "2026-04-13T06:55:00Z"
+  },
+  "lastOutreach": null,
+  "workingHours": {
+    "start": "08:00",
+    "end": "20:00",
+    "timezone": "Asia/Shanghai"
+  },
+  "preferences": {
+    "minSilenceMinutes": 30,
+    "nightMode": true,
+    "weekendReducedFrequency": true
+  }
+}
