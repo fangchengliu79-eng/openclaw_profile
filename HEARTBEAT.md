@@ -1,7 +1,7 @@
 # HEARTBEAT.md - Periodic Checks for Forest
 
 ## Purpose
-This file defines periodic checks Grove performs during heartbeats.
+This file defines periodic checks Grove performs during heartbeats. When nothing needs attention, respond with NO_REPLY (not HEARTBEAT_OK).
 
 ## Check Schedule
 - **Frequency:** Every 30-60 minutes during working hours (08:00-20:00 Asia/Shanghai)
@@ -38,7 +38,7 @@ This file defines periodic checks Grove performs during heartbeats.
 - System alert requiring intervention
 - Compliance deadline approaching (<24h)
 
-### Stay Silent (HEARTBEAT_OK) When:
+### Stay Silent (Respond with NO_REPLY) When:
 - No urgent items detected
 - Forest appears busy or in meetings
 - Late night/early morning hours
