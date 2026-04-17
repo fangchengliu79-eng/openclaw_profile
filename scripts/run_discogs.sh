@@ -2,10 +2,9 @@
 # Discogs每日任务运行脚本
 
 # 设置环境变量
-# 请修改以下变量为你的实际值
-export EMAIL_FROM="你的发送邮箱@qq.com"      # 修改为你的QQ邮箱
-export EMAIL_PASSWORD="你的邮箱授权码"        # 修改为你的邮箱授权码（不是QQ密码）
-export EMAIL_TO="3897451169@qq.com"
+export EMAIL_FROM="3897451169@qq.com"      # 发送邮箱
+export EMAIL_PASSWORD="fohzyphvhiocccgh"    # 邮箱授权码
+export EMAIL_TO="3897451169@qq.com"        # 目标邮箱
 
 # 日志文件
 LOG_DIR="/var/log/discogs"
